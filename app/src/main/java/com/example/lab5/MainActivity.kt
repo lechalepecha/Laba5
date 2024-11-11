@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                 option2.isChecked->intent.putExtra("Selected_Radio","option2")
                 option3.isChecked->intent.putExtra("Selected_Radio","option3")
             }
-            intent.putExtra("MoneyAmount",money_amount.text.toString())
+            intent.putExtra("Percent",money_amount.text.toString())
             startActivity(intent)
         }
 

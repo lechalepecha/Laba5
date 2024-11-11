@@ -37,21 +37,21 @@
             android:id="@+id/option_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton"
+            android:text="3 месяца (3%)"
             android:textColor="#FFFFFF" />
 
         <RadioButton
             android:id="@+id/option_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton"
+            android:text="6 месяцев (6%)"
             android:textColor="#FFFFFF" />
 
         <RadioButton
             android:id="@+id/option_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="RadioButton"
+            android:text="12 месяцев (9%)"
             android:textColor="#FFFFFF" />
     </RadioGroup>
 
